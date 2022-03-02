@@ -1,3 +1,4 @@
+# 1
 massive = list()
 range_1000 = range(1, 1001, 2)
 for amount in range_1000:
