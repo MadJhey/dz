@@ -7,3 +7,5 @@ result = [23, 1, 3, 10, 4, 11]
 for i in src:
    if src.count(i) == 1:
        print(i, end=" ")
+print()
+print([x for x in src if src.count(x) ==1])
